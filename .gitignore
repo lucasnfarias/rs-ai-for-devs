@@ -1,2 +1,5 @@
 .venv
 .env
+
+# rag vector dbs
+child_vector_db
